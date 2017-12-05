@@ -15,7 +15,7 @@ func action() error {
 }
 
 func main() {
-	dae := daemon.New(dae.Config{
+	dae := daemon.New(daemon.Config{
 		Action:   action,
 		Interval: 2 * time.Minute,
 	})
