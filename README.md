@@ -3,7 +3,7 @@
 ```go
 import (
 	"fmt"
-  "time"
+  	"time"
 
 	"github.com/JPZ13/daemon"
 )
