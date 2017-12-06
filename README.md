@@ -1,5 +1,7 @@
 ## [Daemon](https://www.youtube.com/watch?v=9VIjJvWoKLY)
 
+[![GoDoc](https://godoc.org/github.com/JPZ13/daemon?status.svg)](https://godoc.org/github.com/JPZ13/daemon)
+
 ```go
 import (
 	"fmt"
